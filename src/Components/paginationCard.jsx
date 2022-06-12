@@ -37,9 +37,5 @@ function jump(page){
 }
 return {nextPage, previousPage, jump, currentProductsToShow, currentPage, endPages}
 
-
-
-
-
 }
 
