@@ -25,5 +25,8 @@ El proyecto fue realizado con React-redux y estilado con material-UI.
     - Página donde se renderiza las cards de los productos enviados por el backend luego de la búsqueda.
     - Muestra mensaje adecuado en caso de no encontrar ningún producto con el nombre solicitado.
 
-         LINK ASOCIADOS
-    * Puede probar el deploy (hecho con vercel) acá: https://frontend-bsale-j1xi2njn4-ericillanes.vercel.app/
+
+    LINK ASOCIADOS
+* Puede probar el deploy (hecho con vercel y heroku) acá: 
+    - FrontEnd: https://frontend-bsale-j1xi2njn4-ericillanes.vercel.app/
+    - Backend: https://bsaletest-back.herokuapp.com/
